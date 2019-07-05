@@ -1,0 +1,19 @@
+package OOPConceptPart2;
+
+public class BMW  extends Car  //**has-a relationship
+{
+	
+	
+	// When same method is present in parent as well as  in child class with  same name & same number of arguments
+		// is called Method Overriding
+	
+	
+public void start() {   // Overridden Method 
+	System.out.println("BMW---- Start");
+}
+	public void theftsafety() {
+		System.out.println("BMW----theftsafety");
+	}
+}
+	
+
