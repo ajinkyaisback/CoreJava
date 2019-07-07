@@ -1,1 +1,1 @@
-package JavaBasics;
+package TestPackage;
